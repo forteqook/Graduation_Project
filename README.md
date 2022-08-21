@@ -1,4 +1,7 @@
-# GRADUATION_PROJECT (BABIL_KEY)
+# BABIL KEY (Graduation Project)
+
+## Overview
+"Babil Key" is a hybrid app project built with React Native. This application aims to provide bikers an easier and safer way to carry their motorcycle keys.
 
 ## Installation
 ### Requirements
