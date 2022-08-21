@@ -1,3 +1,27 @@
 # GRADUATION_PROJECT (BABIL_KEY)
 
-2022.06.09 졸업 프로젝트 마무리 까지의 바빌 키 앱 입니다.
+## Installation
+### Requirements
+1. NVM
+2. node.js
+3. NPM
+4. Android Studio
+5. JAVA (JDK)
+6. React Native CLI
+### How to Run
+1. Install React Native CLI
+```javascript
+npm install -g react-native-cli
+```
+2. Install dependencies
+```javascript
+npm install
+```
+3. Run
+```javascript
+react-native run-android
+```
+4. If Reanimated2 associated error occurs, try below.
+```javascript
+npx react-native start --reset-cache
+```
